@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(purple,rgb(252, 22, 167),rgb(247, 13, 13));
+}
+
+.fshadow{
+    box-shadow: 2px 2px 2px 2px rgb(115, 0, 255);
+}
