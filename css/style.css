@@ -17,9 +17,8 @@
 	--p-font: 1.1rem;
 }
 body{
-	background: rgb(255,200,0);
-	background: linear-gradient(0deg, rgba(255,200,0,1) 0%, rgba(255,0,185,1) 100%, rgba(255,35,35,1) 100%, rgba(255,78,76,1) 100%, rgba(247,0,25,1) 100%);
-	color:black;
+	background: rgb(159,159,159);
+	background: linear-gradient(0deg, rgba(159,159,159,1) 0%, rgba(247,9,9,1) 0%, rgba(8,83,227,1) 0%, rgba(247,247,254,1) 52%, rgba(0,43,247,1) 100%, rgba(135,255,247,1) 100%, rgba(255,0,185,1) 100%, rgba(59,59,59,1) 100%, rgba(0,0,0,1) 100%, rgba(55,0,255,1) 100%, rgba(255,200,0,1) 100%, rgba(255,35,35,1) 100%);
 }
 
 header{
@@ -311,8 +310,7 @@ header.sticky{
 }
 
 #contact{
-	background: rgb(249,182,23);
-	background: linear-gradient(0deg, rgba(249,182,23,1) 0%, rgba(202,30,217,1) 62%, rgb(251, 0, 255) 100%, rgba(255,200,0,1) 100%, rgba(251,35,48,1) 100%, rgba(255,35,35,1) 100%, rgba(247,0,25,1) 100%, rgba(255,78,76,1) 100%);
+	background:#33254d;
 }
 .main{
 	display: flex;
